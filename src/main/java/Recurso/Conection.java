@@ -25,9 +25,9 @@ public class Conection {
     String marketUrlAfterW= "https://blackdesert.playredfox.com/black_desert/wmarket";
     String listglobal = "https://blackdesert-tradeweb.playredfox.com/Home/GetWorldMarketHotList";
     
-    String username = "brunotcosta80@hotmail.com";
-    String password = "17121994Bruno";
-    String secondPass = "171219";
+    String username = "";
+    String password = "";
+    String secondPass = "";
 
     HashMap<String, String> cookies = new HashMap<>();
     HashMap<String, String> formDataLogin = new HashMap<>();
